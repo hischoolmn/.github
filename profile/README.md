@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-Hischool is online school platform.
-
 Drive your business with the Hischool that makes your work more efficient and easier.
-
 
 Our products:
 - 🚀 Hischool
