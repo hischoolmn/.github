@@ -5,7 +5,7 @@ Drive your business with the Hischool that makes your work more efficient and ea
 Our products:
 - 🚀 Hischool
 - 📚 Hischool Learn
-- 💬 Hischool Space
+- 💬 Hischool Classroom
 - 👨‍🎓 Hischool Student
 - 📒 Hischool Gradebook
 - ...
