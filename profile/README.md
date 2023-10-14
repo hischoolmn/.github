@@ -4,3 +4,10 @@ Hischool, Inc.  is an edtech company. In this day and age of technology, we aim 
 
 Visit [our website](https://hischool.mn) to learn more.
 
+Follow us - get notified 🔔
+- [Twitter](https://twitter.com/hischool_mn)
+- [Facebook](https://facebook.com/hischool.mn)
+- [Instagram](https://twitter.com/hischool.mn)
+- [Threads](https://threads.net/hischool.mn)
+- [Linkedin](https://linkedin.com/company/hischoolmn)
+
