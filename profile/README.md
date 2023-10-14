@@ -1,19 +1,6 @@
-## Hi there 👋
+## Hischool - Online school for k12 students 🎓
 
-Drive your business with the Hischool that makes your work more efficient and easier.
+Hischool, Inc.  is an edtech company. In this day and age of technology, we aim to combine technology with learning to create the best experience for educators and students. With Hischool, k12 students can learn anywhere, anytime. We want to provide open learning opportunities for every student.
 
-Our products:
-- 🚀 School
-- 📚 Learn
-- 💬 Classroom
-- 👨‍🎓 Student
-- 📒 Gradebook
-- 🗓️ Timetable
-- 🏁 Recruit
-- 👨‍👨‍👦 Family
-- 🎨 Form
-- ...
-
-
-Visit [our website](https://hischool.one) to learn more.
+Visit [our website](https://hischool.mn) to learn more.
 
