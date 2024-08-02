@@ -1,6 +1,8 @@
-## The Hischool - Online school for k12 students 🎓
+## The Hischool - Online school platform.
 
-**The Hischool** is an edtech company. In this day and age of technology, we aim to combine technology with learning to create the best experience for educators and learners. With the Hischool, K-12 students can learn anywhere, anytime. We want to provide open learning opportunities for every student.
+**The Hischool** is an edtech company. In this day and age of technology, we aim to combine technology with learning to create the best experience for educators and learners.
+
+With the Hischool, People can learn together anywhere, anytime.
 
 Visit [our website](https://hischool.mn) to learn more.
 
