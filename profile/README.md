@@ -1,6 +1,6 @@
-## The Hischool - Online school platform.
+## Hischool Inc.
 
-**The Hischool** is an edtech company. In this day and age of technology, we aim to combine technology with learning to create the best experience for educators and learners.
+**Hischool Inc.** is an edtech company. In this day and age of technology, we aim to combine technology with learning to create the best experience for educators and learners.
 
 With the Hischool, People can learn together anywhere, anytime.
 
