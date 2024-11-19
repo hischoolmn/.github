@@ -1,4 +1,4 @@
-## Hischool Inc.
+## 👋 Hischool - Education Network
 
 **Hischool Inc.** is an edtech company. In this day and age of technology, we aim to combine technology with learning to create the best experience for educators and learners.
 
@@ -11,5 +11,4 @@ Follow us - get notified 🔔
 - [Facebook](https://facebook.com/hischool.mn)
 - [Instagram](https://instagram.com/hischool.mn)
 - [Threads](https://threads.net/hischool.mn)
-- [Linkedin](https://linkedin.com/company/hischoolmn)
 
